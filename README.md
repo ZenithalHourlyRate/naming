@@ -89,6 +89,20 @@ dram🎀, [22/11/2021 14:53]
 
 和 dram 一样的命名方式！
 
+```
+Maekawa Rynco, [22/11/2021 15:56]
+准确地说
+
+Maekawa Rynco, [22/11/2021 15:56]
+除了咱的台式机 Asagi 以外
+
+Maekawa Rynco, [22/11/2021 15:57]
+所有咱能碰到的设备命名都是六个字母的日文名
+
+Maekawa Rynco, [22/11/2021 15:57]
+碰不到的（比如服务器）都是五个字母的日文名
+```
+
 ## rvalue
 
 apron cabin cockpit pilot aileron
