@@ -44,6 +44,30 @@ T: tmp dir
 Z: zotero
 ```
 
+## Felix/Sequencer
+
+Felix 和 Sequencer 在一个命名空间内，用宝可梦命名的
+
+```
+Yan Felix, [28/08/2021 05:04]
+seq 和我的在一套命名空间
+
+Yan Felix, [28/08/2021 05:05]
+他老怪我把不吉利的名字给他的机器
+
+Yan Felix, [28/08/2021 05:05]
+比如什么 entei 啊 hooh 啊 houndoom 啊 bloom 啊
+
+Yan Felix, [28/08/2021 05:05]
+真的，我绝对不是故意的
+
+Yan Felix, [28/08/2021 05:05]
+这都是正好排到了……
+
+Yan Felix, [28/08/2021 05:06]
+seq：怎么老是什么boom啊doom啊，不吉利
+```
+
 ## dram
 
 ```
