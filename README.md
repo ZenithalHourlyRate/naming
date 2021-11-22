@@ -178,6 +178,31 @@ Nick Cao | 想吃狐狐, [22/11/2021 15:02]
 
 <https://jsteward.moe/server-naming-convention.html>
 
+## zhu chuang
+
+```
+zhu chuang, [22/11/2021 16:42]
+jujube
+roseapple
+sugarapple
+seaberry
+ilama
+hawthorn
+cranberry
+chokeberry
+starfruit
+cantaloupe
+
+zhu chuang, [22/11/2021 16:43]
+多数和地理位置有关，比如 cantaloupe 是一台欧洲的机器
+
+zhu chuang, [22/11/2021 16:43]
+一些和形态有关，比如 starfruit 是一块 RISC-V 的板子
+
+zhu chuang, [22/11/2021 16:44]
+全志 D1
+```
+
 ## xing
 
 我用来上网的第一台计算机运行UNIX操作系统，名字叫King，还有两台机器分别叫Queen和Rabbit——系统管理员的灵感来源于《爱丽丝梦游仙境》，因为该书的作者是数学家。后来做中国教育和科研计算机网时，我给计算机取名的思路是Sea、Ocean、Lake、Pond……CERNET最早的电子邮件服务器sea@net.edu.cn就是我取的名字。
