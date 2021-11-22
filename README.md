@@ -156,6 +156,10 @@ Nick Cao | 想吃狐狐, [22/11/2021 15:02]
 
 用一些粒子命名，例如 muon, xenon, psi
 
+## jsteward
+
+<https://jsteward.moe/server-naming-convention.html>
+
 ## xing
 
 我用来上网的第一台计算机运行UNIX操作系统，名字叫King，还有两台机器分别叫Queen和Rabbit——系统管理员的灵感来源于《爱丽丝梦游仙境》，因为该书的作者是数学家。后来做中国教育和科研计算机网时，我给计算机取名的思路是Sea、Ocean、Lake、Pond……CERNET最早的电子邮件服务器sea@net.edu.cn就是我取的名字。
