@@ -249,6 +249,14 @@ I  love to name things after mahjong tiles🀄️. I have a toy lamma called 九
 
 效仿荒木给替身命名的方式，化用乐队的名字给机器命名。最开始用的基本上都是前卫摇滚乐队的名字，比如 genesis, camel, floyd, graaf, elp, caravan, crimson, magyar，后来加入了一些爵士乐手的名字，例如 waller, umezu。名字和机器的用途之间可能有一些微弱的逻辑关系，比如 genesis 是我的主力机器，caravan 是一个便携设备。但是大部分时候还是非常随意的——可能只是因为最近正在听这个乐队的作品。
 
+## STRRL
+
+我的命名方式比较欢乐，我的第一台个人电脑购于大学入学，当时不知道怎么想的就命名了一个 `biu` 作为主机名； 后来每一台新的电脑都更新首字母： `ciu`，`diu` 等等；目前还在服役的设备有 `eiu`, `fiu`, 与`giu`。
+
+另外我把 `kiu` 这个名字赋予给 Homelab 中的 Kubernetes 的集群了，另外 Kubernetes Worker Node 起名的时候，由于一开始只有两个 Worker Node，拍脑袋想了 `kiu-big-brother` 和 `kiu-little-brother` 这个名字；后来扩容时加了 `kiu-tiny-brother` 和 `kiu-elder-brother` 两个名字；如果再扩容，那我能想到的可能可以用 `sister`，`uncle`，`aunt`，`nephew`作为可以换的后缀（集群 node capacity 被 name thing 限制到了 20！这太糟糕了！）。
+
+工作赚了钱后，买了游戏 PC，第一台游戏 PC 当时觉得性能比较炸，所以命名 `boom`，后面的设备也是更新首字母； 当前服役的设备是 `doom` 和 `eoom`。
+
 ## 杂录
 
 ### 1
