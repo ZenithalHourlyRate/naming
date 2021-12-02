@@ -245,6 +245,10 @@ I  love to name things after mahjong tiles🀄️. I have a toy lamma called 九
 
 我用来上网的第一台计算机运行UNIX操作系统，名字叫King，还有两台机器分别叫Queen和Rabbit——系统管理员的灵感来源于《爱丽丝梦游仙境》，因为该书的作者是数学家。后来做中国教育和科研计算机网时，我给计算机取名的思路是Sea、Ocean、Lake、Pond……CERNET最早的电子邮件服务器sea@net.edu.cn就是我取的名字。
 
+## Sharzy
+
+效仿荒木给替身命名的方式，化用乐队的名字给机器命名。最开始用的基本上都是前卫摇滚乐队的名字，比如 genesis, camel, floyd, graaf, elp, caravan, crimson, magyar，后来加入了一些爵士乐手的名字，例如 waller, umezu。名字和机器的用途之间可能有一些微弱的逻辑关系，比如 genesis 是我的主力机器，caravan 是一个便携设备。但是大部分时候还是非常随意的——可能只是因为最近正在听这个乐队的作品。
+
 ## 杂录
 
 ### 1
