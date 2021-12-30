@@ -22,6 +22,7 @@ spica
 pollux
 fomalhaut
 rigel
+castor
 ```
 
 sun 是我现在最常用的工作台
