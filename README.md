@@ -4,7 +4,7 @@
 
 ## Zenithal
 
-我的内网叫做 azimuth，除开 bootstrap 的三台机器分别叫做 azimuth, zenith, nadir 外，以及两台早就不在线的 north 和 south，其余均是用恒星来命名，如
+我的内网叫做 azimuth，除开 bootstrap 的三台机器分别叫做 azimuth, zenith, nadir 外，以及两台早就不在线的 north 和 south（现在方位词被复用来做随身电脑），其余均是用恒星来命名，如
 
 ```
 canopus
