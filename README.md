@@ -23,6 +23,7 @@ pollux
 fomalhaut
 rigel
 castor
+pherkad
 ```
 
 sun 是我现在最常用的工作台
