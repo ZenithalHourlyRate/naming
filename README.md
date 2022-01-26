@@ -29,7 +29,7 @@ sun 是我现在最常用的工作台
 
 有两台机器没分配内网 ip 但命名了，一个是 betelgeuse 命名一个 gentoo prefix 因为它随时会炸，另一个是 vega 命名了一台 Hurd
 
-如果内网中的机器是与别人合作的，会用对方的 id 或遵循对方的命名法，例如 sharzy 的 sanity
+如果内网中的机器是与别人合作的，会用对方的 id 或遵循对方的命名法，例如 sharzy 的 sanity, even 的 even, dakkidaze 的 dakki, rvalue 的 cabin, icenowy 的 icenowy
 
 同时，我的 /home/zenithal 下的目录也是单字母的
 
