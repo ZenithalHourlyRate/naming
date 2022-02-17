@@ -24,6 +24,7 @@ fomalhaut
 rigel
 castor
 pherkad
+procyon
 ```
 
 sun 是我现在最常用的工作台
