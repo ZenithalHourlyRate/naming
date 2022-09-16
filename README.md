@@ -260,6 +260,20 @@ I  love to name things after mahjong tiles🀄️. I have a toy lamma called 九
 
 工作赚了钱后，买了游戏 PC，第一台游戏 PC 当时觉得性能比较炸，所以命名 `boom`，后面的设备也是更新首字母； 当前服役的设备是 `doom` 和 `eoom`。
 
+## Blockcity
+
+想到什么就起什么名字，有时候用随机数搓一个，有时候直接借别人的名字：
+
+```
+Vox
+Elebox
+Ratizux（同时也是我 GitHub 上的马甲）
+Flameframe
+Yuki
+Aitelle
+Asashio
+```
+
 ## 杂录
 
 ### 1
